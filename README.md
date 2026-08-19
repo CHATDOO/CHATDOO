@@ -1,6 +1,6 @@
 <div align="center">
 
-  <!-- BANNIÈRE AESTHETIC DARK CYBER/NEON -->
+  <!-- BANNIÈRE AESTHETIC DARK -->
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:161b22,100:000000&height=180&section=header&text=SALEM%20ASSADI&fontSize=48&fontColor=58a6ff&animation=twinkling&desc=SYSTEMS%20ARCHITECT%20%7C%20INFRASTRUCTURE%20%7C%20AI&descSize=16&descAlignY=70&descAlign=50" width="100%"/>
 
   <br/><br/>
@@ -31,7 +31,7 @@
 
 <br/>
 
-### 🌌 ❮ SYSTEM STATUS & ARCHITECTURE ❯
+### 🌌 ❮ SYSTEM ARCHITECTURE & STATUS ❯
 
 ```diff
 + [INFRASTRUCTURE] : Proxmox VE · LXC Clusters · Dedicated Game Servers
@@ -66,34 +66,14 @@
 
 <br/>
 
-### 💎 ❮ FEATURED PROJECTS ❯
+### 💎 ❮ HIGHLIGHTED REPOSITORIES ❯
 
-<div align="center">
-  <a href="https://github.com/CHATDOO/eggs-assettocorsa">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=CHATDOO&repo=eggs-assettocorsa&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e" />
-  </a>
-  <a href="https://github.com/CHATDOO/Pterodactyl-Egg-FiveM-GTA-V-EnhancedEdition">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=CHATDOO&repo=Pterodactyl-Egg-FiveM-GTA-V-EnhancedEdition&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e" />
-  </a>
-  <br/>
-  <a href="https://github.com/CHATDOO/Minecraft-YOLOv5">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=CHATDOO&repo=Minecraft-YOLOv5&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e" />
-  </a>
-  <a href="https://github.com/CHATDOO/claw-conductor">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=CHATDOO&repo=claw-conductor&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e" />
-  </a>
-</div>
-
-<br/>
-
-### 📊 ❮ METRICS & ACTIVITY ❯
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=CHATDOO&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e&count_private=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CHATDOO&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e&langs_count=8" height="165" />
-  <br/><br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=CHATDOO&theme=dark&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" />
-</div>
+| Project | Description | Tech Stack | Link |
+| :--- | :--- | :--- | :--- |
+| **Assetto Corsa Evo Egg** | Custom Pterodactyl egg running seamlessly via Proton/Wine | `Docker` `Wine/Proton` `Pterodactyl` | [Explore](https://github.com/CHATDOO/eggs-assettocorsa) |
+| **FiveM GTA V Server Egg** | High-performance dedicated server egg for FiveM | `FiveM` `Linux` `Pterodactyl` | [Explore](https://github.com/CHATDOO/Pterodactyl-Egg-FiveM-GTA-V-EnhancedEdition) |
+| **Minecraft YOLOv5** | Real-time computer vision & object detection in Minecraft | `Python` `PyTorch` `YOLOv5` | [Explore](https://github.com/CHATDOO/Minecraft-YOLOv5) |
+| **Claw Conductor** | Multi-server automation & pipeline orchestration | `NodeJS` `Automation` `API` | [Explore](https://github.com/CHATDOO/claw-conductor) |
 
 <br/>
 
