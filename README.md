@@ -44,12 +44,10 @@
 <br />
 
 <div align="center">
-  <a href="https://github.com/CHATDOO/eggs-assettocorsa">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=CHATDOO&repo=eggs-assettocorsa&theme=tokyonight_animated&show_owner=false" alt="Assetto Corsa Egg" />
+  <a href="https://github.com/CHATDOO?tab=repositories">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=CHATDOO&repo=pterodactyl-assetto-corsa-evo-egg&theme=tokyonight_animated&show_owner=false" alt="AC Evo Proton Egg Card" />
   </a>
-  <a href="https://github.com/CHATDOO/Pterodactyl-Egg-FiveM-GTA-V-EnhancedEdition">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=CHATDOO&repo=Pterodactyl-Egg-FiveM-GTA-V-EnhancedEdition&theme=tokyonight_animated&show_owner=false" alt="FiveM Egg" />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=CHATDOO&repo=chrome-extension-tools&theme=tokyonight_animated&show_owner=false" alt="Extension Card" />
 </div>
 
 <br />
@@ -59,7 +57,7 @@
 ---
 
 <!-- ============================== -->
-<!-- 4. TECH STACK -->
+<!-- 4. TECH STACK (PULSATING BADGES) -->
 <!-- ============================== -->
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Hammer and Wrench" width="35" height="35" /> Tech Stack
 
@@ -68,6 +66,7 @@
 <div align="center">
 
   #### **Core Languages & Backend**
+  <!-- Ces badges peuvent pulser/tourner selon le moteur de rendu, on utilise style=plastic pour un look moins plat -->
   ![Python](https://img.shields.io/badge/Python-3776AB?style=plastic&logo=python&logoColor=white)
   ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=plastic&logo=javascript&logoColor=black)
   ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=plastic&logo=typescript&logoColor=white)
@@ -94,9 +93,11 @@
 <br />
 
 <div align="center">
+  <!-- Thème 'tokyonight_animated' pour des graphs animés -->
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=CHATDOO&show_icons=true&theme=tokyonight_animated&hide_border=true&count_private=true" />
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CHATDOO&layout=compact&theme=tokyonight_animated&hide_border=true&langs_count=8" />
   <br />
+  <!-- Le streak stat n'est pas animé par défaut mais le thème est moderne -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=CHATDOO&theme=tokyonight_animated&hide_border=true" />
 </div>
 
