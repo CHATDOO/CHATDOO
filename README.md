@@ -43,7 +43,7 @@ Directive    : Architecting zero-downtime, low-jitter game ecosystems.
 
 <br/>
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Rocket.png" width="26" style="vertical-align: middle;" /> Flagship Engineering Projects
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="26" style="vertical-align: middle;" /> Flagship Engineering Projects
 
 | Project | Description | Architecture & Stack | Link |
 | :--- | :--- | :--- | :---: |
